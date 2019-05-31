@@ -1,0 +1,10 @@
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe.config
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\bin\Debug\Mail Sender.exe
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\bin\Debug\Mail Sender.pdb
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csprojResolveAssemblyReference.cache
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.Form1.resources
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.Properties.Resources.resources
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail Sender.csproj.GenerateResource.Cache
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail Sender.exe
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail Sender.pdb
+c:\users\prodipta promit\documents\visual studio 2017\Projects\Mail Sender\Mail Sender\obj\Debug\Mail_Sender.Form2.resources
