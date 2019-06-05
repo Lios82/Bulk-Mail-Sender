@@ -1,0 +1,2 @@
+# Bulk-Mail-Sender
+This application developed for a freelancing team in spite of sending bulk mails. By using this, user can login to their mail id like gmail or outlook or so on and send bulk mails through this. The approach of sending bulk mails (inside this application) reduces the chances of spamming. More than 90% mails reached on inbox during testing phase and users reviewd that it provides 100% inboxing of mails and they express their satisfaction. 
